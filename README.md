@@ -5,7 +5,7 @@ An adaptation on the original Leobog Webdriver, accessed by pressing Windows+R a
 * Significantly Larger text: for better readability
 * Offline compatibility: works offline
 * Same as original webdriver, with the same functions.
-* Update file: run "pull.bat" to pull the latest version from this repo
+* Update file: run "fetch.bat" to pull the latest version from this repo
 
 ## Notes
 * AJAZZ keyboards may not work. There was some code that relied on fetching from Leobog which was removed
